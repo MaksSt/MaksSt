@@ -1,35 +1,53 @@
-# 📊 GitHub Stats
+<div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaksSt\&show_icons=true\&include_all_commits=true\&count_private=true\&hide_title=true)
+# Hi there, I'm MaksSt 👋
 
----
+### 👨‍💻 Разработка ПО и эксперименты с ИИ
 
-# 🔥 Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaksSt\&layout=compact)
-
----
-
-# 🧰 Tools & Technologies
-
-* 💻 Programming Languages
-* 🛠️ Frameworks & Libraries
-* 🗄️ Databases
-* ☁️ DevOps & Cloud
-* 📦 Other tools
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Software+Developer;Backend+%2F+System+%2F+Tools;Always+Learning+New+Technologies" alt="Typing SVG" />
+</p>
 
 ---
 
-# 📈 Activity Graph
+## 🚀 Обо мне
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MaksSt\&bg_color=ffffff\&color=000000\&line=000000\&point=000000\&hide_border=true)
+*   ⚙️ **Backend & System**: Работа с серверной частью и системными утилитами
+*   🛠️ **Tools**: Создание инструментов для автоматизации
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <a href="https://github.com/MaksSt">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MaksSt&show_icons=true&theme=tokyonight&hide_border=true" alt="MaksSt's Stats" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MaksSt&layout=compact&theme=tokyonight&hide_border=true" alt="MaksSt's Top Languages" />
+  </a>
+</div>
 
 ---
 
-# 🚀 About
+## 🧰 Tools & Technologies
 
-* 👨‍💻 Разработка ПО и эксперименты с технологиями
-* ⚙️ Работа с backend / system / tools
-* 📚 Всегда в процессе улучшения навыков
+### 💻 Languages & Frameworks
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+
+### 🗄️ Databases & Cloud
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 
 ---
+
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MaksSt&bg_color=1a1b27&color=70a5fd&line=38bdae&point=FFFFFF&hide_border=true" alt="Activity Graph" />
+</div>
+
+</div>
