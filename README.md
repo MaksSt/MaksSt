@@ -1,16 +1,35 @@
-## Hi there 👋
+# 📊 GitHub Stats
 
-<!--
-**MaksSt/MaksSt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaksSt\&show_icons=true\&include_all_commits=true\&count_private=true\&hide_title=true)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🔥 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaksSt\&layout=compact)
+
+---
+
+# 🧰 Tools & Technologies
+
+* 💻 Programming Languages
+* 🛠️ Frameworks & Libraries
+* 🗄️ Databases
+* ☁️ DevOps & Cloud
+* 📦 Other tools
+
+---
+
+# 📈 Activity Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MaksSt\&bg_color=ffffff\&color=000000\&line=000000\&point=000000\&hide_border=true)
+
+---
+
+# 🚀 About
+
+* 👨‍💻 Разработка ПО и эксперименты с технологиями
+* ⚙️ Работа с backend / system / tools
+* 📚 Всегда в процессе улучшения навыков
+
+---
