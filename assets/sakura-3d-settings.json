@@ -1,0 +1,33 @@
+{
+  "type": "normal",
+  "fileName": "sakura-profile.svg",
+  "backgroundColor": "#fff7fa",
+  "foregroundColor": "#514149",
+  "strongColor": "#9f365b",
+  "weakColor": "#8d7480",
+  "radarColor": "#d96f91",
+  "growingAnimation": true,
+  "contribColors": [
+    "#f4e8ed",
+    "#fbd5e1",
+    "#f4a7be",
+    "#d96f91",
+    "#9f365b"
+  ],
+  "darkMode": {
+    "type": "normal",
+    "backgroundColor": "#16131b",
+    "foregroundColor": "#fceef3",
+    "strongColor": "#f6b6c8",
+    "weakColor": "#b89eaa",
+    "radarColor": "#e98ba8",
+    "growingAnimation": true,
+    "contribColors": [
+      "#2a2127",
+      "#4a2936",
+      "#7a3d52",
+      "#b85f7c",
+      "#f4a7be"
+    ]
+  }
+}

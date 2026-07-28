@@ -1,0 +1,79 @@
+<svg width="960" height="220" viewBox="0 0 960 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="sky" x1="24" y1="14" x2="932" y2="207" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#17131B"/>
+      <stop offset="0.6" stop-color="#281820"/>
+      <stop offset="1" stop-color="#4A2130"/>
+    </linearGradient>
+    <linearGradient id="sun" x1="738" y1="38" x2="830" y2="130" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFF0F4"/>
+      <stop offset="1" stop-color="#E98BA8"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-30%" width="140%" height="160%">
+      <feDropShadow dx="0" dy="8" stdDeviation="14" flood-color="#0B080D" flood-opacity="0.4"/>
+    </filter>
+    <filter id="glow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="6"/>
+    </filter>
+    <clipPath id="frame">
+      <rect x="6" y="6" width="948" height="208" rx="24"/>
+    </clipPath>
+    <g id="flower">
+      <ellipse cy="-7.5" rx="4.3" ry="7.7" fill="#FFD5E1"/>
+      <ellipse cy="-7.5" rx="4.3" ry="7.7" fill="#F4A7BE" transform="rotate(72)"/>
+      <ellipse cy="-7.5" rx="4.3" ry="7.7" fill="#FFD5E1" transform="rotate(144)"/>
+      <ellipse cy="-7.5" rx="4.3" ry="7.7" fill="#F4A7BE" transform="rotate(216)"/>
+      <ellipse cy="-7.5" rx="4.3" ry="7.7" fill="#FFD5E1" transform="rotate(288)"/>
+      <circle r="2.4" fill="#FFE9A8"/>
+    </g>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect x="6" y="6" width="948" height="208" rx="24" fill="url(#sky)"/>
+
+    <circle cx="786" cy="82" r="61" fill="#E98BA8" fill-opacity="0.12" filter="url(#glow)"/>
+    <circle cx="786" cy="82" r="44" fill="url(#sun)"/>
+
+    <path d="M565 199L657 127L698 162L747 111L866 199H565Z" fill="#D786A0" fill-opacity="0.22"/>
+    <path d="M615 199L698 148L738 176L782 139L883 199H615Z" fill="#130E14" fill-opacity="0.66"/>
+    <path d="M0 188C126 170 233 174 342 191C469 211 574 178 686 186C807 194 884 183 960 164V220H0V188Z" fill="#100C12" fill-opacity="0.9"/>
+
+    <g opacity="0.13">
+      <path d="M48 31H576" stroke="#FFD5E1"/>
+      <path d="M48 181H489" stroke="#FFD5E1"/>
+      <path d="M48 38V174" stroke="#FFD5E1"/>
+    </g>
+
+    <g filter="url(#shadow)">
+      <text x="65" y="58" fill="#F4A7BE" font-family="'Segoe UI', Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="5">HELLO, I'M</text>
+      <text x="61" y="126" fill="#FFF7FA" font-family="'Segoe UI', Arial, sans-serif" font-size="68" font-weight="800" letter-spacing="-2">MaksSt</text>
+      <text x="66" y="158" fill="#E7CED7" font-family="'Segoe UI', Arial, sans-serif" font-size="15" font-weight="600" letter-spacing="3">BACKEND  •  SYSTEMS  •  TOOLS</text>
+    </g>
+
+    <path d="M960 16C911 34 882 57 845 80C820 96 793 102 763 111" stroke="#331821" stroke-width="12" stroke-linecap="round"/>
+    <path d="M920 33C899 53 890 72 882 98" stroke="#331821" stroke-width="7" stroke-linecap="round"/>
+    <path d="M871 64C844 57 820 57 797 64" stroke="#331821" stroke-width="6" stroke-linecap="round"/>
+    <path d="M841 82C831 103 820 117 801 131" stroke="#331821" stroke-width="5" stroke-linecap="round"/>
+
+    <g>
+      <use href="#flower" transform="translate(918 35) scale(1.1) rotate(8)"/>
+      <use href="#flower" transform="translate(892 56) scale(.8) rotate(-14)"/>
+      <use href="#flower" transform="translate(882 92) scale(1) rotate(14)"/>
+      <use href="#flower" transform="translate(848 61) scale(.75) rotate(-8)"/>
+      <use href="#flower" transform="translate(831 96) scale(.9) rotate(20)"/>
+      <use href="#flower" transform="translate(803 64) scale(.62) rotate(-18)"/>
+      <use href="#flower" transform="translate(801 129) scale(.7) rotate(17)"/>
+      <use href="#flower" transform="translate(762 110) scale(.54) rotate(-8)"/>
+    </g>
+
+    <g fill="#F4A7BE">
+      <ellipse cx="706" cy="39" rx="3" ry="8" transform="rotate(-28 706 39)" opacity=".78"/>
+      <ellipse cx="661" cy="70" rx="2.7" ry="7" transform="rotate(36 661 70)" opacity=".58"/>
+      <ellipse cx="895" cy="142" rx="2.8" ry="7.5" transform="rotate(-42 895 142)" opacity=".68"/>
+      <ellipse cx="731" cy="174" rx="2.6" ry="6.8" transform="rotate(24 731 174)" opacity=".5"/>
+      <ellipse cx="558" cy="51" rx="2.5" ry="6.4" transform="rotate(-35 558 51)" opacity=".44"/>
+    </g>
+  </g>
+
+  <rect x="6.75" y="6.75" width="946.5" height="206.5" rx="23.25" stroke="#F4A7BE" stroke-opacity="0.32" stroke-width="1.5"/>
+</svg>

@@ -1,35 +1,36 @@
 <div align="center">
+  <img src="./assets/sakura-header.svg" width="100%" alt="MaksSt — Backend, Systems and Tools" />
 
-# Hi there, I'm MaksSt 👋
+  <samp>⚙️ Backend &amp; Systems&nbsp;&nbsp;•&nbsp;&nbsp;🛠️ Tools&nbsp;&nbsp;•&nbsp;&nbsp;🌱 Always learning</samp>
+</div>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Software+Developer;Backend+%2F+System+%2F+Tools;Always+Learning" alt="Typing SVG" />
+<div align="center">
+  <h3>TOOLKIT</h3>
 
-<p>
-⚙️ <b>Backend & System</b> • 🛠️ <b>Tools</b> • 📚 <b>Learning</b>
-</p>
+  <p>
+    <img src="https://img.shields.io/badge/Python-6D3D53?style=flat-square&amp;logo=python&amp;logoColor=FFF5F8" alt="Python" />
+    <img src="https://img.shields.io/badge/Node.js-824A61?style=flat-square&amp;logo=nodedotjs&amp;logoColor=FFF5F8" alt="Node.js" />
+    <img src="https://img.shields.io/badge/Lua-99566F?style=flat-square&amp;logo=lua&amp;logoColor=FFF5F8" alt="Lua" />
+    <img src="https://img.shields.io/badge/C%23-B46782?style=flat-square&amp;logo=csharp&amp;logoColor=FFF5F8" alt="C#" />
+    <img src="https://img.shields.io/badge/MySQL-6D3D53?style=flat-square&amp;logo=mysql&amp;logoColor=FFF5F8" alt="MySQL" />
+    <img src="https://img.shields.io/badge/Docker-824A61?style=flat-square&amp;logo=docker&amp;logoColor=FFF5F8" alt="Docker" />
+    <img src="https://img.shields.io/badge/Linux-99566F?style=flat-square&amp;logo=linux&amp;logoColor=FFF5F8" alt="Linux" />
+    <img src="https://img.shields.io/badge/Git-B46782?style=flat-square&amp;logo=git&amp;logoColor=FFF5F8" alt="Git" />
+  </p>
+</div>
 
----
+<div align="center">
+  <h3>ACTIVITY IN 3D</h3>
 
-<!-- Tech Stack -->
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+  <a href="https://github.com/MaksSt">
+    <img
+      width="95%"
+      src="./profile-3d-contrib/sakura-profile.svg"
+      alt="MaksSt's 3D contribution calendar, activity radar and language chart"
+    />
+  </a>
+</div>
 
-<!-- Stats -->
-<a href="https://github.com/MaksSt">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MaksSt&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="Stats" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MaksSt&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top Langs" />
-</a>
-
-<!-- Activity Graph -->
-<br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MaksSt&bg_color=1a1b27&color=70a5fd&line=38bdae&point=FFFFFF&hide_border=true" alt="Activity Graph" />
-
+<div align="center">
+  <sub>Code blooms one line at a time.</sub>
 </div>
