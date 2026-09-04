@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/sakura-header.svg" width="100%" alt="MaksSt — Backend, Systems and Tools" />
+  <img src="./assets/sakura-header.png" width="100%" alt="MaksSt — Backend, Systems and Tools" />
 
   <samp>⚙️ Backend &amp; Systems&nbsp;&nbsp;•&nbsp;&nbsp;🛠️ Tools&nbsp;&nbsp;•&nbsp;&nbsp;🌱 Always learning</samp>
 </div>
